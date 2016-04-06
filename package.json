@@ -18,7 +18,9 @@
   "homepage": "https://github.com/ThatCrazyIrishGuy/cloudr-test-api#readme",
   "dependencies": {
     "express": "^4.13.4",
+    "ghost-inspector": "^2.0.0",
     "loadtest": "^1.3.0",
-    "morgan": "^1.7.0"
+    "morgan": "^1.7.0",
+    "request": "^2.69.0"
   }
 }
